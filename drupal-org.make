@@ -88,7 +88,7 @@ projects[oauth][version] = 3.2
 projects[oauth][patch][] = "http://drupal.org/files/980340-d7.patch"
 projects[connector][version] = 1.0-beta2
 projects[oauthconnector][version] = 1.0-beta2
-projects[inline_entity_form][version] = 1.5
+projects[inline_entity_form][version] = 1.6
 projects[inline_conditions][version] = 1.0-alpha5
 projects[field_extractor][version] = 1.3
 projects[service_links][version] = 2.x-dev
@@ -128,7 +128,7 @@ projects[facetapi][patch][] = "https://drupal.org/files/1616518-term_remove_link
 projects[search_api_sorts][version] = 1.5
 
 ; UI improvement modules.
-projects[module_filter][version] = 1.8
+projects[module_filter][version] = 2.0
 projects[image_delta_formatter][version] = 1.0-rc1
 projects[link][version] = 1.3
 projects[pathauto][version] = 1.2
